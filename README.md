@@ -90,7 +90,4 @@ link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?u
     ├── Structure of two branches.png  
     ├── System Architecture.png  
     └── soft mask.png  
-  
-4 directories, 22 files  
-=======
->>>>>>> ba8203b76e83a9b48eb475c86749445a8d2cd07c
+
