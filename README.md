@@ -60,6 +60,7 @@ link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?u
 | Xin Huang   | xh2510   | Building Model Structure | Training Model | Writing Paper | 1/3 |
 | Qimeng Tao  | qt2139   | Building Model Structure | Training Model | Writing Paper | 1/3 |
 | Kangrui Li  | kl3350   | Building Model Structure | Training Model | Writing Paper | 1/3 |
+<<<<<<< HEAD
 
 
 ./  
@@ -91,3 +92,5 @@ link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?u
     └── soft mask.png  
   
 4 directories, 22 files  
+=======
+>>>>>>> ba8203b76e83a9b48eb475c86749445a8d2cd07c
