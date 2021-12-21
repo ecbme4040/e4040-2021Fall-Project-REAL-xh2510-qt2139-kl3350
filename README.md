@@ -60,7 +60,6 @@ link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?u
 | Xin Huang   | xh2510   | Building Model Structure | Training Model | Writing Paper | 1/3 |
 | Qimeng Tao  | qt2139   | Building Model Structure | Training Model | Writing Paper | 1/3 |
 | Kangrui Li  | kl3350   | Building Model Structure | Training Model | Writing Paper | 1/3 |
-<<<<<<< HEAD
 
 
 ./  
