@@ -47,9 +47,9 @@ Finally, we discussed the impact of noise on accuracy, and the results are shown
 | 70%   | 17.21%| 21.3%  | 18.3% |
 
 ##  Environment
-Python 3.8
-Tensorflow-gpu 2.5
-Google Cloud (NVIDIA Tesla P100)
+Python 3.8  
+Tensorflow-gpu 2.5  
+Google Cloud (NVIDIA Tesla P100)  
 
 ## Attention92 model for CIFAR-10
 link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?usp=sharing
