@@ -17,26 +17,26 @@ First of all, we use the data set on CIFAR-10, first train the model on the netw
 | Network Structure | Error | Reference Error | Traning Times |
 | ----------------- | ----- | --------------- | ------------- |
 | With Shortcut     | 6.71% | 5.52% | 107s / epochs(bath size = 64) |
-| Without Shortcut  | 6.68% | 5.52% | 98s  / epochs(bath size = 64) |
+| Without Shortcut   | 6.68% | 5.52% | 98s  / epochs(bath size = 64) |
 
 Then we use the data set on CIFAR-10, train the model on the network of Attention 92. The results are shown in the table below.
 | Network Structure | Error | Reference Error | Traning Times |
 | ----------------- | ----- | --------------- | ------------- |
-| With Shortcut     | 5.91% | 4.99% | 109s / epochs(bath size = 64) |
-| Without Shortcut  | 6.12% | 4.99% | 99s  / epochs(bath size = 64) |
+| With Shortcut     | 5.91% | 4.99% | 173s / epochs(bath size = 64) |
+| Without Shortcut   | 6.12% | 4.99% | 170s / epochs(bath size = 64) |
 
 We also implemented the training of Attention56 and Attention92 on CIFAR-100. The results are shown in the table below.
 Attention 56 on CIFAR-100
 | Network Structure | Error | Reference Error | Traning Times |
 | ----------------- | ----- | --------------- | ------------- |
-| With Shortcut     | 32.24% | Not provided | 172s / epochs(bath size = 64) |
-| Without Shortcut  | 37.98% | Not provided | 172s / epochs(bath size = 64) |
+| With Shortcut     | 32.24% | Not provided | 107s / epochs(bath size = 64) |
+| Without Shortcut   | 37.98% | Not provided | 104s / epochs(bath size = 64) |
 
 Attention 92 on CIFAR-100
 | Network Structure | Error | Reference Error | Traning Times |
 | ----------------- | ----- | --------------- | ------------- |
 | With Shortcut     | 25.8% | 20.71% | 424s / epochs(bath size = 64) |
-| Without Shortcut  | 30.3% | 20.71% | 424  / epochs(bath size = 64) |
+| Without Shortcut   | 30.3% | 20.71% | 424  / epochs(bath size = 64) |
 
 Finally, we discussed the impact of noise on accuracy, and the results are shown in the following table.
 | Noise | ResNet 164 | Attention 56 | Attention 92 |
@@ -68,7 +68,7 @@ link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?u
 │   ├── Attention Module without shortcut.py  
 │   ├── attention_module_with shortcut.py  
 │   └── residual_unit.py  
-├── Project Report.pdf  
+├── E4040.2021Fall.REAL.report.xh2510.qt2139.kl3350.pdf  
 ├── README.md  
 ├── Training Model  
 │   ├── Attention_56_Model_for_Cifar10.py  
