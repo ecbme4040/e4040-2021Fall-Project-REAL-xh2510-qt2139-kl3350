@@ -61,14 +61,13 @@ link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?u
 | Qimeng Tao  | qt2139   | Building Model Structure | Training Model | Writing Paper | 1/3 |
 | Kangrui Li  | kl3350   | Building Model Structure | Training Model | Writing Paper | 1/3 |
 
-
 ./  
+├── E4040.2021Fall.REAL.report.xh2510.qt2139.kl3350.pdf  
 ├── ECBM_4040_Final_Project.ipynb  
 ├── Modual  
 │   ├── Attention Module without shortcut.py  
 │   ├── attention_module_with shortcut.py  
 │   └── residual_unit.py  
-├── E4040.2021Fall.REAL.report.xh2510.qt2139.kl3350.pdf  
 ├── README.md  
 ├── Training Model  
 │   ├── Attention_56_Model_for_Cifar10.py  
@@ -84,9 +83,10 @@ link: https://drive.google.com/drive/folders/12_ZY38endjkQfbJTuMWoFz2vwR6pbcin?u
     ├── Screenshot  
     │   ├── Screenshot1.png  
     │   ├── Screenshot2.png  
-    │   └── Screenshot3.png
+    │   └── Screenshot3.png  
     ├── Shortcut Connection.png  
     ├── Structure of two branches.png  
     ├── System Architecture.png  
     └── soft mask.png  
-
+  
+4 directories, 22 files  
